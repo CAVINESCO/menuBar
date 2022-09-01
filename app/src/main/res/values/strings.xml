@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">1.1</string>
+    <string name="perfil">Perfil</string>
+    <string name="meus_chamados">Meus chamados</string>
+    <string name="configura_es">Configurações</string>
+    <string name="ajuda_e_suporte">Ajuda e Suporte</string>
+    <string name="vers_o_do_app">versão do App</string>
+    <string name="ol_usu_rio">Olá usuário!</string>
+    <string name="sair">Sair</string>
+    <string name="marquinhos">Marquinhos</string>
+    <string name="vers_o_do_app_0_0_1">Versão do App 0.0.1</string>
+    <string name="Verified">Verified</string>
+</resources>

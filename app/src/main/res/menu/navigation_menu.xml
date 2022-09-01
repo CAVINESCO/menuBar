@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/ol_usu_rio"
+        />
+    <item
+        android:id="@+id/menuPerfil"
+        android:title="@string/perfil"
+        android:icon="@drawable/ic_menu"
+        />
+    <item
+        android:id="@+id/nav_cham"
+        android:title="@string/meus_chamados"
+        android:icon="@drawable/ic_hist"
+        />
+    <item
+        android:id="@+id/nav_conf"
+        android:title="@string/configura_es"
+        android:icon="@drawable/ic_conf"
+        />
+    <item
+        android:id="@+id/nav_sup"
+        android:title="@string/ajuda_e_suporte"
+        android:icon="@drawable/ic_help"
+        />
+
+    <item
+        android:id="@+id/nav_logout"
+        android:title="@string/sair"
+        android:icon="@drawable/ic_power"
+        />
+    <item
+        android:id="@+id/nav_app"
+        android:title="@string/vers_o_do_app_0_0_1"/>
+
+</menu>
